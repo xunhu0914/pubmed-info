@@ -1,0 +1,9 @@
+打开命令行
+激活pubmed_info环境
+结合pubmed和AI 构建合适的检索式
+获得的结果保存为PMID
+导入https://pubmed2xl.com/xlsx/
+下载excel
+运行pubdata2xl_IF_to_word.py即可生成word
+需要根据文件名称微调代码
+进入pdb以后，手动添加完影响因子，输入c继续生成word
