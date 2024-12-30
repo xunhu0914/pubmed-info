@@ -5,7 +5,7 @@ import tencentcloud.common as common
 from tencentcloud.common.exception.tencent_cloud_sdk_exception import TencentCloudSDKException
 from tencentcloud.tmt.v20180321 import tmt_client, models
 
-# 腾讯云API密钥
+# 腾讯云API密钥 需要进一步完善 添加Google gemini API
 SecretId = "your_secret_id"  # 替换为你的SecretId
 SecretKey = "your_secret_key"  # 替换为你的SecretKey
 
